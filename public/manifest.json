@@ -4,12 +4,23 @@
     "orientation": "portrait-primary",
     "display": "fullscreen",
     "start_url": "/index.html",
-    "theme_color": "#fff",
+    "theme_color": "#2196F3",
+    "background_color": "#2196F3",
     "icons":[
         {
             "src":"/src/images/icons/app-icon-48x48.png",
             "type":"images/png",
             "sizes":"48x48"
+        },
+        {
+            "src":"/src/images/icons/app-icon-96x96.png",
+            "type":"images/png",
+            "sizes":"96x96"
+        },
+        {
+            "src":"/src/images/icons/app-icon-144x144.png",
+            "type":"images/png",
+            "sizes":"144x144"
         }
     ]
 }
